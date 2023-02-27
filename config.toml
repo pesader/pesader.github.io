@@ -1,0 +1,66 @@
+baseURL = 'https://pesader.github.io'
+languageCode = 'en-us'
+title = 'pesader'
+
+theme = "freelancer"
+summaryLength=40
+paginate=9
+
+
+[params]
+  tagLine = "An enthusiast of technology for good"
+  homePosts = 3
+  homeProjects = 3
+  author = "Pedro Sader Azevedo"
+
+  aboutLeft = "I'm a Computer Enginnering student who fully embraces the pragmatism of Open Source as well as the righteousness of Free Software."
+  aboutRight = "I coordinate the LKCAMP Free and Open Source study group at my university, which promotes the usage and the development of FOSS projects."
+
+  [params.location]
+    lineOne = "Campinas - SP"
+    lineTwo = "Brazil"
+
+  [params.sbform]
+    token = ""
+
+  [[params.social]]
+    icon      = "key"
+    icon_pack = "fas"
+    url       = "https://keyoxide.org/hkp/adcfe1009ec391e7cc38ec13e7497b22c97fe966"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = 'tags'
+    weight = 100
+
+  [[related.indices]]
+    name = 'date'
+    weight = 10
+
+[markup]
+  [markup.highlight]
+    margin = 10
+    anchorLineNos = true
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'friendly'
+    tabWidth = 4
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputFormats]
+     [outputFormats.RSS]
+         mediaType = "application/rss+xml"
+         baseName = "feed"
