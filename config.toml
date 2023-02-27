@@ -13,8 +13,8 @@ paginate=9
   homeProjects = 3
   author = "Pedro Sader Azevedo"
 
-  aboutLeft = "I'm a Computer Enginnering student who fully embraces the pragmatism of Open Source as well as the righteousness of Free Software."
-  aboutRight = "I coordinate the LKCAMP Free and Open Source study group at my university, which promotes the usage and the development of FOSS projects."
+  aboutLeft = "I'm a Computer Enginnering student who fully embraces the efficiency of Open Source as well as the right-mindedness of Free Software."
+  aboutRight = "Currently, I coordinate my university's Free and Open Source student club, LKCAMP, where I both motivate and teach people to contribute to FOSS."
 
   [params.location]
     lineOne = "Campinas - SP"
