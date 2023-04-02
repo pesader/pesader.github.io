@@ -1,6 +1,6 @@
 ---
 title: "Debug GNOME extensions with journalctl"
-date: 2023-04-02T10:03:19-03:00
+date: 2023-04-02T11:00:19-03:00
 draft: false
 ---
 

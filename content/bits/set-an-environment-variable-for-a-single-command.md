@@ -1,6 +1,6 @@
 ---
 title: "Set an environment variable for a single command"
-date: 2023-04-02T09:54:36-03:00
+date: 2023-04-02T10:54:36-03:00
 draft: false
 ---
 
