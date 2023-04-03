@@ -33,15 +33,17 @@ If you installed GNOME Boxes as a flatpak, run:
 GTK_DEBUG=interactive flatpak run org.gnome.Boxes
 ```
 However, if you want to use the GTK Inspector with your own build of GNOME
-Boxes, you should probably use one of the other methods below.
+Boxes, you should probably use one of the following methods.
 
-# Method 2: check option in Builder
+# Method 2: toggle option in Builder
 
 On the most recent versions of GNOME Builder you can launch the inpector
-alongside the application you are compiling by simply checking an option on the
+alongside the application you are compiling by simply toggling an option on the
 run menu, as you can see below:
 
 <img src="builder_inspector_check.png" alt="GNOME Builder inspector check">
+
+This will take care of everything for you (thanks GNOME Builder!).
 
 # Method 3: project configuration in Builder
 
