@@ -90,14 +90,18 @@ button and wait.
 
 Once it's done, the file explorer will open in a directory with the exported
 `.flatpak` package. Now, simply double-click it to install using GNOME
-Software. When installation is complete, you'll be able to run it with:
+Software. When installation is complete, you'll be able to access the GTK
+Inspector using the first method I presented:
 
 ```bash
-flatpak run org.gnome.BoxesDevel
+GTK_DEBUG=interactive flatpak run org.gnome.BoxesDevel
 ```
 
-Or by heading to the Applications menu and selecting the icon that looks like
-it's wrapped in "under construction" tape (on the left side of the image):
+If you built the application with the project configuration described in the
+third method, the GTK Inspector will always launch along side your build of
+GNOME Boxes. In that case, you can even launch Boxes via the applications
+menu (its icon will be wrapped in "under construction" tape, as the one on the
+left side of the image).
 
 <img src="boxes_icons.png" alt="boxes regular and development package application icon">
 
