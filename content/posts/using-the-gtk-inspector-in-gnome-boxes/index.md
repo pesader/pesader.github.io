@@ -3,6 +3,7 @@ title: "Using the GTK Inspector in GNOME Boxes"
 date: 2023-04-02T11:07:02-03:00
 draft: false
 hero: hero.png
+thumbnail: thumbnail.png
 ---
 
 The GTK Inspector is a powerful tool that allows developers to better
