@@ -9,12 +9,14 @@ paginate=9
 
 [params]
   tagLine = "An enthusiast of technology for good"
-  homePosts = 3
-  homeProjects = 3
   author = "Pedro Sader Azevedo"
 
   aboutLeft = "I'm a Computer Enginnering student who fully embraces the efficiency of Open Source as well as the right-mindedness of Free Software."
   aboutRight = "Currently, I coordinate my university's Free and Open Source student club, LKCAMP, where I both motivate and teach people to contribute to FOSS."
+
+  homePosts = 3
+  homeProjects = 3
+  homeBits = 3
 
   [params.location]
     lineOne = "Campinas - SP"
