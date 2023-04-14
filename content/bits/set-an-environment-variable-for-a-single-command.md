@@ -20,4 +20,3 @@ For flatpaks, which run on their own isolated environment, you must use the
 ```bash
 flatpak run com.example.Application --env VARIABLE=value
 ```
-
