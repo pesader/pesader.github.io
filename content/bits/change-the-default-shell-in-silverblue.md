@@ -11,4 +11,10 @@ your default shell using the command below:
 sudo usermod -s $PATHTOSHELL $USERNAME
 ```
 
+For example, to change the default shell to zsh:
+
+```bash
+sudo usermod -s $(which zsh) $USERNAME
+```
+
 In my experience, a reboot was necessary for it to take effect.
