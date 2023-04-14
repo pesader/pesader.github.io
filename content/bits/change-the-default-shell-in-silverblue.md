@@ -8,7 +8,7 @@ Fedora does not include `chsh` for security reasons, but you can still change
 your default shell using the command below:
 
 ```bash
-hugo new --kind bit bits/change-the-default-shell-in-silverblue.md
+sudo usermod -s $PATHTOSHELL $USERNAME
 ```
 
 In my experience, a reboot was necessary for it to take effect.
