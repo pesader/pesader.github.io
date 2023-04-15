@@ -9,3 +9,6 @@ Very useful to learn the commit conventions of an open source project:
 ```bash
 git log -p -- filename
 ```
+
+**Sources**:
+[\[1\]](https://stackoverflow.com/questions/278192/view-the-change-history-of-a-file-using-git-versioning)

@@ -20,3 +20,8 @@ For flatpaks, which run on their own isolated environment, you must use the
 ```bash
 flatpak run com.example.Application --env VARIABLE=value
 ```
+
+**Sources**:
+[\[1\]](https://wiki.gnome.org/Projects/GTK/Inspector)
+[\[2\]](https://unix.stackexchange.com/questions/7309/set-the-language-for-a-single-program-execution)
+[\[3\]](https://docs.flatpak.org/en/latest/flatpak-command-reference.html)

@@ -11,3 +11,6 @@ git branch temporary
 git checkout main
 git merge temporary
 ```
+
+**Sources**:
+[\[1\]](https://stackoverflow.com/questions/7124486/what-to-do-with-commit-made-in-a-detached-head)

@@ -25,3 +25,6 @@ installation. You can check that out by running:
 ```bash
 rpm-ostree status
 ```
+
+**Sources**:
+[\[1\]](https://discussion.fedoraproject.org/t/simplifying-updates-for-rpm-fusion-packages-and-other-packages-shipping-their-own-rpm-repos/30364)

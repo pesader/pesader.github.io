@@ -18,3 +18,7 @@ Later, if you want to update your local references, run:
 ```bash
 git remote update
 ```
+
+**Sources**:
+[\[1\]](https://linuxhint.com/git-pull-remote-branch-without-merge/)
+[\[2\]](https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-remote-update-git-fetch-and-git-pull)

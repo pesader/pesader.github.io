@@ -23,3 +23,7 @@ checkout the output of:
 ```bash
 journalctl -f -o cat /usr/bin/gjs
 ```
+
+**Sources**:
+[\[1\]](https://gjs.guide/extensions/development/debugging.html#logging)
+[\[2\]](https://github.com/GSConnect/gnome-shell-extension-gsconnect/blob/main/CONTRIBUTING.md#typical-workflow)

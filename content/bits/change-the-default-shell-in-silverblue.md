@@ -18,3 +18,6 @@ sudo usermod -s $(which zsh) $USERNAME
 ```
 
 In my experience, a reboot was necessary for it to take effect.
+
+**Sources**:
+[\[1\]](https://discussion.fedoraproject.org/t/how-to-change-the-default-shell-on-fedora-silverblue-chsh-is-not-available/78361/7)
