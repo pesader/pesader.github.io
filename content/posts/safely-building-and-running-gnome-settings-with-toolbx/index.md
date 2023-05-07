@@ -114,7 +114,7 @@ toolbx:
 
 | Outside toolbx | Inside toolbx |
 |-|-|
-| {{< figure src="system.png" alt="Applications panel outside of toolbox" width="100%">}} | {< figure src="toolbx.png" alt="Applications panel inside of toolbox" width="100%">} |
+| {{< figure src="system.png" alt="Applications panel outside of toolbox" width="100%">}} | {{< figure src="toolbx.png" alt="Applications panel inside of toolbox" width="100%">}} |
 
 That's all! Hope this was useful for you!
 
