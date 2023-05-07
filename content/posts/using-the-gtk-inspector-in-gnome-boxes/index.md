@@ -43,7 +43,7 @@ On the most recent versions of GNOME Builder you can launch the inpector
 alongside the application you are compiling by simply toggling an option on the
 run menu, as you can see below:
 
-<img src="builder_inspector_check.png" alt="GNOME Builder inspector check">
+![GNOME Builder inspector check](builder_inspector_check.png)
 
 This will take care of everything for you (thanks GNOME Builder!).
 
@@ -54,11 +54,11 @@ don't worry there's still hope! First, head to the project configuration page
 by hitting `Alt + ,` or clicking the "Configure Project..." option in the
 dropdown menu of the omnibar:
 
-<img src="builder_configure_project.png" alt="GNOME Builder project configuration options screenshot">
+![GNOME Builder project configuration options screenshot](builder_configure_project.png)
 
 Then, append `GTK_DEBUG=interactive` under the "Configure Options" text box:
 
-<img src="builder_configure_options.png" alt="GNOME Builder configure options textbox screenshot">
+![GNOME Builder configure options textbox screenshot](builder_configure_options.png)
 
 What we did here was changing the flatpak manifest of GNOME Boxes using a nice
 graphical user interface (thanks GNOME Builder!). Since you would want to keep
@@ -88,7 +88,7 @@ makes this very easy (thanks again GNOME Builder!). First, build the
 application once by clicking the hammer in the omnibar. Then, click the "Export"
 button and wait.
 
-<img src="builder_export_package.png" alt="GNOME Builder option to export package">
+![GNOME Builder option to export package](builder_export_package.png)
 
 Once it's done, the file explorer will open in a directory with the exported
 `.flatpak` package. Now, simply double-click it to install using GNOME
@@ -105,7 +105,7 @@ GNOME Boxes. In that case, you can even launch Boxes via the applications
 menu (its icon will be wrapped in "under construction" tape, as the one on the
 left side of the image).
 
-<img src="boxes_icons.png" alt="boxes regular and development package application icon">
+![boxes regular and development package application icon](boxes_icons.png)
 
 That about covers it! While I hope this blog post becomes obsolete when someone
 fixes the issue of the keyboard shortcut not working (possibly myself?), I
