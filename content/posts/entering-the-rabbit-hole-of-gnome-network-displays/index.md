@@ -97,11 +97,11 @@ added integration with the default firewall utility of Fedora Silverblue.
 
 All I needed to do was change my firewall zone to WiFi P2P.
 
-{{< figure src="firewall.png" alt="Firewall configuration screenshot" width=100% >}}
+<img src="firewall.png" alt="Firewall configuration screenshot">
 
 Upon doing that, my device started being detected! Once I clicked it though:
 
-{{< figure src="codecs.png" alt="Codec disclaimer screenshot" width=100% >}}
+<img src="codecs.png" alt="Codec disclaimer screenshot">
 
 To proceed, I installed the GStreamer OpenH264 Encoder (which is provided by
 the `gstreamer1-plugin-openh264` package). With that I was finally able to
