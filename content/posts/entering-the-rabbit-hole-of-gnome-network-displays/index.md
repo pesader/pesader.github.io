@@ -4,6 +4,7 @@ date: 2023-04-03T15:34:02-03:00
 draft: false
 hero: hero.png
 thumbnail: thumbnail.png
+tags: [GNOME, GSoC]
 ---
 
 In this blog post I'll walk you through my journey of builiding and

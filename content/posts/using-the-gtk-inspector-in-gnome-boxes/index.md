@@ -4,6 +4,7 @@ date: 2023-04-02T11:07:02-03:00
 draft: false
 hero: hero.png
 thumbnail: thumbnail.png
+tags: [GNOME, GTK, Virtual Machines]
 ---
 
 The GTK Inspector is a powerful tool that allows developers to better

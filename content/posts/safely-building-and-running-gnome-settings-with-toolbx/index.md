@@ -4,6 +4,7 @@ date: 2023-04-03T18:20:51-03:00
 draft: false
 hero: hero.png
 thumbnail: thumbnail.png
+tags: [GNOME, Containers, Toolbx]
 ---
 
 Toolbx is a utility that empowers users and developers to install software on
