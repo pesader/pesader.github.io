@@ -4,6 +4,7 @@ date: 2023-05-08T19:14:37-03:00
 draft: false
 hero: hero.png
 thumbnail: thumbnail.png
+tags: [GNOME]
 ---
 
 I absolutely love extensions, in general. I remember being blown away every
