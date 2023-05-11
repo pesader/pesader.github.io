@@ -8,7 +8,7 @@ Head to the root directory of your Hugo project and run:
 
 ```bash
 git submodule add https://gitlab.com/$OWNER/$THEME themes/$THEME
-git submodule init --recursive themes//$THEME
+git submodule init --recursive themes/$THEME
 ```
 
 Later, when you want to sync the submodule with its remote, run:
