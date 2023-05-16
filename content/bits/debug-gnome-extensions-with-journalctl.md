@@ -2,6 +2,7 @@
 title: "Debug GNOME extensions with journalctl"
 date: 2023-04-02T11:00:19-03:00
 draft: false
+tags: [journalctl, systemd, GNOME]
 ---
 
 To get the logs of a GNOME Extension, you must first find out its UUID (which

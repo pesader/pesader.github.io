@@ -2,6 +2,7 @@
 title: "Get the git log of a specific file"
 date: 2023-04-02T10:36:26-03:00
 draft: false
+tags: [git]
 ---
 
 Very useful to learn the commit conventions of an open source project:

@@ -2,6 +2,7 @@
 title: "Add a Hugo theme as a git submodule"
 date: 2023-04-02T10:17:17-03:00
 draft: false
+tags: [Hugo, git]
 ---
 
 Head to the root directory of your Hugo project and run:

@@ -2,6 +2,7 @@
 title: "Keep your branch up to date with upstream"
 date: 2023-04-02T10:42:46-03:00
 draft: false
+tags: [git]
 ---
 
 First, pull the upstream changes to your main branch

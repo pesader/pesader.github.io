@@ -2,6 +2,7 @@
 title: "Change the default shell in Silverblue"
 date: 2023-04-02T20:22:59-03:00
 draft: false
+tags: [Silverblue, shell]
 ---
 
 Fedora does not include `chsh` for security reasons, but you can still change

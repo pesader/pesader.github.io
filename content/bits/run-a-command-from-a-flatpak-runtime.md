@@ -2,6 +2,7 @@
 title: "Run a command from a flatpak runtime"
 date: 2023-04-14T18:36:10-03:00
 draft: false
+tags: [ffmpeg, flatpak]
 ---
 
 To run commands that are available on flatpak runtimes, use:

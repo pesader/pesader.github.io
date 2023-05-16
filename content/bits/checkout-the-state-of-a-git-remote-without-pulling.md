@@ -2,6 +2,7 @@
 title: "Checkout the state of a git remote without pulling"
 date: 2023-04-02T10:27:41-03:00
 draft: false
+tags: [git]
 ---
 
 Sometimes you want to see what someone else has been up to in their own fork of

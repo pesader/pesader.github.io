@@ -2,6 +2,7 @@
 title: "Setup RPM Fusion in Fedora Silverblue"
 date: 2023-03-31T16:24:18-03:00
 draft: false
+tags: [rpm-ostree, Silverblue]
 ---
 
 If you follow the [official instructions](https://rpmfusion.org/Configuration)

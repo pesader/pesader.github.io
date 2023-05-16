@@ -2,6 +2,7 @@
 title: "Select and describe changes on a git stash"
 date: 2023-03-31T18:45:05-03:00
 draft: false
+tags: [git]
 ---
 
 Running the command line below will allow you to interactively select which
