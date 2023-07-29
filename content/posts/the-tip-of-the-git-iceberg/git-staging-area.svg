@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210.06882mm"
+   height="155.80014mm"
+   viewBox="0 0 210.06882 155.80014"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="git-staging-area.svg"
+   inkscape:export-filename="git-staging-area.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="409.48306"
+     inkscape:cy="371.64582"
+     inkscape:window-width="1128"
+     inkscape:window-height="683"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="580.355"
+       y="389.29005"
+       width="181.42827"
+       height="122.1959"
+       id="rect1343" />
+    <rect
+       x="580.28274"
+       y="385.72967"
+       width="170.71428"
+       height="34.841795"
+       id="rect1337" />
+    <rect
+       x="580.35498"
+       y="389.29004"
+       width="176.09676"
+       height="137.45721"
+       id="rect1343-5" />
+    <rect
+       x="580.35498"
+       y="389.29004"
+       width="181.42827"
+       height="122.1959"
+       id="rect1343-5-5" />
+    <rect
+       x="580.35498"
+       y="389.29004"
+       width="181.42827"
+       height="122.1959"
+       id="rect1343-5-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1335"
+       style="font-weight:bold;font-size:16px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:end;word-spacing:0px;white-space:pre;shape-inside:url(#rect1337);display:inline" />
+    <rect
+       style="opacity:0.99;fill:#deddda;fill-opacity:0.24285;stroke:#818181;stroke-width:0.499999;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect551"
+       width="52.368847"
+       height="42.769661"
+       x="78.849983"
+       y="15.442858"
+       ry="7.7855453"
+       inkscape:export-filename="git-staging-area.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-72.544044,-75.12178)"
+       id="text1341-3-9"
+       style="font-weight:bold;font-size:26.6667px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect1343-5-2);display:inline"
+       x="-48.807999"
+       y="0"><tspan
+         x="628.52262"
+         y="413.23609"
+         id="tspan1445">Staged </tspan><tspan
+         x="620.8026"
+         y="446.56947"
+         id="tspan1447">changes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 105.34775,63.412348 V 84.937959"
+       id="path1751" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 114.01883,63.852072 165.74982,84.2271"
+       id="path1753" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 95.623419,64.042388 43.892433,84.417416"
+       id="path1753-1" />
+    <rect
+       style="opacity:0.99;fill:#efefed;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill;stroke-opacity:1"
+       id="rect2072"
+       width="28.196466"
+       height="5.169086"
+       x="90.93618"
+       y="73.374969"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Bold';text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#1a5fb4"
+       x="92.325943"
+       y="77.24221"
+       id="text2018"><tspan
+         sodipodi:role="line"
+         id="tspan2016"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Bold';text-align:start;text-anchor:start;stroke-width:0.264583;fill:#1a5fb4"
+         x="92.325943"
+         y="77.24221">git commit</tspan></text>
+    <rect
+       style="opacity:0.99;fill:#efefed;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill;stroke-opacity:1"
+       id="rect2072-7"
+       width="45.963749"
+       height="5.169086"
+       x="127.7039"
+       y="73.374969"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Bold';text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#c07a08;fill-opacity:1"
+       x="129.09367"
+       y="77.24221"
+       id="text2018-0"><tspan
+         sodipodi:role="line"
+         id="tspan2016-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Bold';text-align:start;text-anchor:start;stroke-width:0.264583;fill:#c07a08;fill-opacity:1"
+         x="129.09367"
+         y="77.24221">git stash push -p</tspan></text>
+    <rect
+       style="opacity:0.99;fill:#efefed;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill;stroke-opacity:1"
+       id="rect2072-7-6"
+       width="43.593971"
+       height="5.169086"
+       x="38.166878"
+       y="73.374969"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Bold';text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.264583;fill:#a51d2d"
+       x="39.556641"
+       y="77.24221"
+       id="text2018-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan2016-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono Bold';text-align:start;text-anchor:start;stroke-width:0.264583;fill:#a51d2d"
+         x="39.556641"
+         y="77.24221">git reset --hard</tspan></text>
+    <rect
+       style="opacity:0.99;fill:#f9f06b;fill-opacity:0.24285;stroke:#e5a50a;stroke-width:0.499999;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect551-7"
+       width="52.368847"
+       height="42.769661"
+       x="142.25365"
+       y="90.968422"
+       ry="7.7855453" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.2141152,1.997305)"
+       id="text1341"
+       style="font-weight:bold;font-size:24px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect1343);display:inline"
+       x="-48.807999"
+       y="0"><tspan
+         x="585.01734"
+         y="410.84136"
+         id="tspan1449">Staged changes </tspan><tspan
+         x="591.95333"
+         y="440.84136"
+         id="tspan1451">saved for later</tspan></text>
+    <rect
+       style="opacity:0.99;fill:#99c1f1;fill-opacity:0.24285;stroke:#1a5fb4;stroke-width:0.499999;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect551-3"
+       width="52.368847"
+       height="42.769661"
+       x="78.849983"
+       y="90.773766"
+       ry="7.7855453" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-71.912393,-2.1661013)"
+       id="text1341-3"
+       style="font-weight:bold;font-size:24px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect1343-5);display:inline"
+       x="-48.807999"
+       y="0"><tspan
+         x="582.35133"
+         y="410.84136"
+         id="tspan1453">Staged changes </tspan><tspan
+         x="582.37534"
+         y="440.84136"
+         id="tspan1455">used to create a </tspan><tspan
+         x="602.16331"
+         y="470.84136"
+         id="tspan1457">new version</tspan></text>
+    <rect
+       style="opacity:0.99;fill:#f66151;fill-opacity:0.24285;stroke:#a51d2d;stroke-width:0.499999;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke markers fill"
+       id="rect551-6"
+       width="52.368847"
+       height="42.769661"
+       x="15.446324"
+       y="90.968422"
+       ry="7.7855453" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-136.02143,1.997305)"
+       id="text1341-3-6"
+       style="font-weight:bold;font-size:24px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:center;word-spacing:0px;white-space:pre;shape-inside:url(#rect1343-5-5);display:inline"
+       x="-48.807999"
+       y="0"><tspan
+         x="585.01734"
+         y="410.84136"
+         id="tspan1459">Staged changes </tspan><tspan
+         x="629.80132"
+         y="440.84136"
+         id="tspan1461">undone</tspan></text>
+  </g>
+</svg>
