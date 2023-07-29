@@ -154,7 +154,9 @@ Tip: view switchers are usually good candidates for Access Keys! They look like 
 
 # Git
 
-The most popular version control system is `git`. We'll need to use its command line interface (CLI) to make our contribution but, unfortunately, `git` is a very complex and convoluted tool. Teaching all about it would take a very long (probably a workshop of its own) so I'll only give you what you need for this workshop:
+The most popular version control system is `git`. We'll need to use its command line interface (CLI) to make our contribution but, unfortunately, `git` is a very complex and convoluted tool. Teaching all about it would take a very long (probably a workshop of its own). If want a deeper introduction to the concepts of `git` you can read ["The tip of the git iceberg"](https://pesader.dev/posts/the-tip-of-the-git-iceberg/), by yours truly 😉.
+
+That being said, we'll only give you what you need for this workshop:
 
 1. Download the source code of the application
 
