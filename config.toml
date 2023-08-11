@@ -35,6 +35,11 @@ paginate=9
     icon_pack = "fab"
     url       = "https://keyoxide.org/hkp/adcfe1009ec391e7cc38ec13e7497b22c97fe966"
 
+  [[params.social]]
+    icon      = "linkedin"
+    icon_pack = "fab"
+    url       = "https://www.linkedin.com/in/pesader"
+
 [related]
   includeNewer = true
   threshold = 80
