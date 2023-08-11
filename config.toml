@@ -33,7 +33,7 @@ paginate=9
   [[params.social]]
     icon      = "mastodon"
     icon_pack = "fab"
-    url       = "https://keyoxide.org/hkp/adcfe1009ec391e7cc38ec13e7497b22c97fe966"
+    url       = "https://mastodon.social/@pesader"
 
   [[params.social]]
     icon      = "linkedin"
