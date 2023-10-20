@@ -9,7 +9,7 @@ Running the command line below will allow you to interactively select which
 hunks of change you want to stash.
 
 ```bash
-git stash push -p -m "message explaining the stashed changes"
+git stash --staged -m "message explaining the stashed changes"
 ```
 
 **Sources**:
