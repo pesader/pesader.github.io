@@ -2,8 +2,6 @@
 title: "Safely building and running GNOME Settings with toolbx"
 date: 2023-04-03T18:20:51-03:00
 draft: false
-hero: hero.png
-thumbnail: thumbnail.png
 tags: [GNOME, Containers, Toolbx]
 ---
 

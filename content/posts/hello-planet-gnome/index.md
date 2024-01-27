@@ -2,8 +2,6 @@
 title: "Hello Planet GNOME!"
 date: 2023-05-09T17:10:50-03:00
 draft: false
-hero: hero.png
-thumbnail: thumbnail.png
 tags: [GNOME, GSoC]
 ---
 

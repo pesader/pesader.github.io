@@ -3,8 +3,6 @@ title: "Adding an RSS feed for GNOME-related posts"
 date: 2023-05-08T09:40:43-03:00
 draft: false
 tags: [GNOME, GSoC, Hugo]
-hero: hero.png
-thumbnail: thumbnail.png
 ---
 
 I recently got news that I was accepted as a Google Summer of Code (GSoC)

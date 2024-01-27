@@ -4,8 +4,6 @@ date: 2023-08-01T19:15:26-03:00
 draft: false
 sidebar: true
 tags: [GNOME, GSoC]
-hero: "hero.png"
-thumbnail: "thumbnail.png"
 ---
 
 A few days back, I went for the first time to the GNOME Users and Developers Everywhere Conference (GUADEC). Even though I'm just a Google Summer of Code intern, the GNOME Foundation was kind enough to sponsor my trip to Riga, Latvia, where the event took place this year.

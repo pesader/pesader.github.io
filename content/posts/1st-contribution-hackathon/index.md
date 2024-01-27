@@ -4,7 +4,6 @@ date: 2023-07-29T09:46:26+03:00
 draft: false
 sidebar: true
 tags: [GSoC, GNOME, GUADEC 2023, GTK]
-hero: "hero.png"
 ---
 
 Thank you for coming to the the 1st Contribution Hackathon at GUADEC 2023. As the name implies, in this event, we'll teach you how to make your first code contribution to GNOME. Buckle up!
