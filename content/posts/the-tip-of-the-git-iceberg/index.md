@@ -2,7 +2,6 @@
 title: "The tip of the git iceberg"
 date: 2023-07-29T13:23:48+03:00
 draft: false
-sidebar: true
 tags: [git]
 ---
 

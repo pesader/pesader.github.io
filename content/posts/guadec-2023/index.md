@@ -2,7 +2,6 @@
 title: "GUADEC 2023"
 date: 2023-08-01T19:15:26-03:00
 draft: false
-sidebar: true
 tags: [GNOME, GSoC]
 ---
 
