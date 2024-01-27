@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | strings.FirstUpper }}"
 date: {{ .Date }}
 draft: false
 sidebar: true
