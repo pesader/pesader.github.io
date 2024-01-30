@@ -5,7 +5,13 @@ draft: false
 tags: [GSoC, GNOME, GUADEC 2023, GTK]
 ---
 
-Thank you for coming to the the 1st Contribution Hackathon at GUADEC 2023. As the name implies, in this event, we'll teach you how to make your first code contribution to GNOME. Buckle up!
+The 1<sup>st</sup> Contribution Hackathon was created by LKCAMP, the Free and Open Source Software study group of the *Universidade Estadual de Campinas* (Unicamp) that I have been a member of for years. Over time, we have made many iterations of this event in our university and even took it to the GUADEC (GNOME's global conference) in 2023.
+
+That being said, thank you for coming to this edition of the 1<sup>st</sup> Contribution Hackathon! We welcome you into our history. Now, buckle up!
+
+# Resources
+
+You can access a page with links to all the resources you'll need to participate in this event by clicking [here](https://lkcamp.gitlab.io/lynx/first-contribution/). Open it and pin that tab in web browser for the entire duration of the event!
 
 # Setup
 
@@ -14,8 +20,6 @@ There are three components that we need for making the contribution: flatpak, fl
 ## Flatpak
 
 Flatpak is a packaging format for graphical applications that works on any GNU/Linux distribution. It is the most widely embraced packaging format for GNOME applications. To get flatpak on your distro of choice, run:
-
-Flatpak é um formato de empacotamento de aplicações gráficas, que funciona em qualquer distribuição de GNU/Linux (Fedora, Ubuntu, Arch, etc). Esse é o formato escolhido pelo Projeto GNOME para publicar seus pacotes, então o usaremos para instalar os aplicativos e suas dependências.
 
 - **Ubuntu**:
 
@@ -64,7 +68,7 @@ An important part of this ecosystem are the GNOME apps, to which we'll contribut
 
 # What is GTK?
 
-In programmer's lingo: it is an object oriented widgets-based framework for developing graphical applications. Let's break that down!
+GTK is a fundamental building block for the applications that belong in the GNOME software platform. In programmer's lingo, GTK is an object oriented widgets-based framework for developing graphical applications. Now let's break that down in plain English:
 
 - **Object oriented**:
 
@@ -76,7 +80,7 @@ In GTK, every graphical element is a "widget". These widgets are organized hiera
 
 ![](widgets.png)
 
-Widgets' behaviur and appearance can be configured with a programming language (C, Python, Rust, Javascript, Vala, etc) and/or a markup language (XML, Blueprint, etc).
+Widgets' behavior and appearance can be configured with a programming language (C, Python, Rust, JavaScript, Vala, etc) and/or a markup language (XML, Blueprint, etc).
 
 - **Graphical applications**:
 
@@ -144,7 +148,7 @@ The HIG contains [a section on Access Keys](https://developer.gnome.org/hig/guid
 - Avoid letters with descenders (g, y, q)
 - Avoid vowels (a, e, i, o, u)
 
-Tip: view switchers are usually good candidates for Access Keys! They look like this:
+Tip: view switchers are usually good candidates for Access Keys! They can often be found in preferences screens and look like this:
 
 ![](view-switcher-top.png)
 
@@ -188,6 +192,7 @@ git push origin add-access-keys
 
 {{< alert danger
 "**Warning**: We'll contribute to projects that are hosted on GitHub and GitLab. Although there's only link for GitHub (github.com), there are multiple links to GitLab (gitlab.com, gitlab.gnome.org, etc). Make sure you create your account using the same GitLab link as your chosen project is hosted at."
+
 >}}
 
 After you've pushed your changes to your GitHub/GitLab account, you have to request that the maintainers of the project accept your contribution. This is known as a "merge request" (MR) or a "pull request" (PR).
@@ -198,17 +203,19 @@ When either of these git platforms detect a `git push` coming from you, they wil
 
 Finally, you're all set! Follow the steps below to make your first code contribution to GNOME and don't hesitate to ask any questions.
 
-1. Pick a project and write down your name in the sheet
-2. Find the project's repository in its Flathub page
-3. Create an account and access token at GitHub/GitLab
-4. For the the project and clone your fork
-5. Build once without any modifications
-6. Implement the Access Keys
-7. Check the commit conventions
-8. Commit, push, and PR/MR
-9. Put the PR/MR link in the sheet
-10. Wait for feedback
+1. Open the page of links and pin that tab in your browser
+2. Pick a project and write down your name in the sheet
+3. Find the project's repository in its Flathub page
+4. Install it and check if still doesn't have Access Keys
+5. Create an account and access token at GitHub/GitLab
+6. Fork the the project and clone your fork
+7. Build once without any modifications
+8. Implement the Access Keys following the HIG
+9. Check the commit conventions
+10. Commit, push, and make a PR/MR
+11. Put the PR/MR link in the sheet
+12. Wait for feedback and iterate
 
 # Attribution
 
-This blog post is a slightly re-written translation of this [blog post](https://lkcamp.dev/posts/hackathon-de-1-caractere-parte-ii/) by LKCAMP, which was written by myself and Tárik Sá.
+This blog post is a slightly re-written translation of this [blog post](https://lkcamp.dev/posts/hackathon-de-1-caractere-parte-ii/) by LKCAMP, which was originally written in Brazilian Portuguese by myself and Tárik Sá.
