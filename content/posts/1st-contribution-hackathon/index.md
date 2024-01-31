@@ -111,7 +111,7 @@ To implement an Access Key for a widget within a application, you need to prepen
 
 Then, activate the Access Key feature for that widget. To do that you need to set the property "`user-underline`" to `True`.
 
-This can sometimes be done with programming or markup languages. For programming languages, you'll find some examples in the [official documentation](https://developer.gnome.org/documentation/tutorials/beginners/components/label.html?highlight=mnemonics). Luckly for you, we have also made some additional examples, which you can checkout in the [Projects Sheet](https://docs.google.com/spreadsheets/d/1C0J81CPDu1bBct5V49KLvL8jAIPwv_AbCIFr2yiHCQI/edit#gid=0). Here are some highlights:
+This can sometimes be done with programming or markup languages. For programming languages, you'll find some examples in the [official documentation](https://developer.gnome.org/documentation/tutorials/beginners/components/label.html?highlight=mnemonics). Luckly for you, we have also made some additional examples, which you can checkout in the [Projects Sheet](https://docs.google.com/spreadsheets/u/1/d/1XX9s93jsXsXu76Hg0k6uS-dThXfiSssc7rZ_BE2fgyY/edit?usp=sharing). Here are some highlights:
 
 
 ### Example in XML
@@ -197,7 +197,7 @@ git push origin add-access-keys
 
 After you've pushed your changes to your GitHub/GitLab account, you have to request that the maintainers of the project accept your contribution. This is known as a "merge request" (MR) or a "pull request" (PR).
 
-When either of these git platforms detect a `git push` coming from you, they will offer you to create an MR/PR. Accept the offer and write a detailed description of what your contribution does. Again, you can check the examples in the [Project Sheet](https://docs.google.com/spreadsheets/d/1C0J81CPDu1bBct5V49KLvL8jAIPwv_AbCIFr2yiHCQI/edit#gid=0).
+When either of these git platforms detect a `git push` coming from you, they will offer you to create an MR/PR. Accept the offer and write a detailed description of what your contribution does. Again, you can check the examples in the [Project Sheet](https://docs.google.com/spreadsheets/u/1/d/1XX9s93jsXsXu76Hg0k6uS-dThXfiSssc7rZ_BE2fgyY/edit?usp=sharing).
 
 # Hackathon
 
