@@ -63,6 +63,8 @@ $ git add CONTRIBUTORS.md
 
 The `git add` command puts files in the "staging area". The purpose of the "staging area" is to serve as an intermediary state, where you gather all the files you want apply a certain `git` operation to. The "staging area" is like a launchpad, from which many different things can be done (e.g. saving changes for later, undoing changes, etc).
 
+![The git staging area](git-staging-area.png)
+
 Your most common way out of the "staging area" will be creating a new version from the changes you put there (represented in the center of the figure above). Let's do that on our own "staging area", which currently contains our beloved (and still empty) CONTRIBUTORS.md file, by running:
 
 ```bash
